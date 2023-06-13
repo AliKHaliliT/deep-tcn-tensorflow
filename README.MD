@@ -6,7 +6,7 @@
 TensorFlow implementation of multivariate time series forecasting model introduced in Chen, Y., Kang, Y., Chen, Y., 
 and Wang, Z. (2020). Probabilistic forecasting with temporal convolutional neural network. *Neurocomputing*, 399, 491-501.
 
-</b> This fork returns the model's history, which is not implemented in the main repo. <b>
+<b>This fork returns the model's history, which is not implemented in the main repo.</b>
 
 ## Dependencies
 ```bash
